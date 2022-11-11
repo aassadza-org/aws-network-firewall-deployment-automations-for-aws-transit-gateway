@@ -21,7 +21,7 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@aws-cdk/assert": "1.77.0",
+    "@aws-cdk/assert": "1.180.0",
     "@types/jest": "^26.0.20",
     "@types/node": "10.17.5",
     "@types/source-map-support": "^0.5.3",
@@ -32,18 +32,18 @@
     "typescript": "^3.9.9"
   },
   "dependencies": {
-    "@aws-cdk/aws-codebuild": "1.77.0",
-    "@aws-cdk/aws-codecommit": "1.77.0",
-    "@aws-cdk/aws-codedeploy": "1.77.0",
-    "@aws-cdk/aws-codepipeline": "1.77.0",
-    "@aws-cdk/aws-codepipeline-actions": "1.77.0",
-    "@aws-cdk/aws-ec2": "1.77.0",
-    "@aws-cdk/aws-events-targets": "1.77.0",
-    "@aws-cdk/aws-kms": "1.77.0",
-    "@aws-cdk/aws-lambda": "1.77.0",
-    "@aws-cdk/aws-s3": "1.77.0",
-    "@aws-cdk/aws-ssm": "1.77.0",
-    "@aws-cdk/core": "1.77.0",
+    "@aws-cdk/aws-codebuild": "1.180.0",
+    "@aws-cdk/aws-codecommit": "1.180.0",
+    "@aws-cdk/aws-codedeploy": "1.180.0",
+    "@aws-cdk/aws-codepipeline": "1.180.0",
+    "@aws-cdk/aws-codepipeline-actions": "1.180.0",
+    "@aws-cdk/aws-ec2": "1.180.0",
+    "@aws-cdk/aws-events-targets": "1.180.0",
+    "@aws-cdk/aws-kms": "1.180.0",
+    "@aws-cdk/aws-lambda": "1.180.0",
+    "@aws-cdk/aws-s3": "1.180.0",
+    "@aws-cdk/aws-ssm": "1.180.0",
+    "@aws-cdk/core": "1.180.0",
     "source-map-support": "^0.5.16"
   }
 }
